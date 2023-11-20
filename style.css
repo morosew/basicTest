@@ -1,0 +1,23 @@
+body {
+    background: url(/assets/mountain.jpg) no-repeat center center fixed;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    
+
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.quote {
+    margin: 7rem 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    text-transform: capitalize;
+    text-transform: uppercase;
+}
